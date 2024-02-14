@@ -1,4 +1,3 @@
-
 import { ConnectorCards } from "./connector-cards";
 
 export default function SettingsProfilePage() {
